@@ -8,29 +8,7 @@
 
 
 # 预览
-![效果](https://github.com/leffss/devops/blob/master/screenshots/1.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/2.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/3.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/4.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/5.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/6.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/7.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/8.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/9.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/10.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/12.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/13.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/14.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/16.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/17.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/18.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/19.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/20.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/21.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/22.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/23.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/24.PNG?raw=true)
-![效果](https://github.com/leffss/devops/blob/master/screenshots/25.PNG?raw=true)
+
 
 
 # 部署安装
